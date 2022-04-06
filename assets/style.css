@@ -1,0 +1,51 @@
+/* HEADER */
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    margin-top: 25%;
+
+}
+
+p {
+    text-align: center;
+    margin-top: 0%;
+
+}
+
+.view-highscores {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: medium;
+}
+
+.start-button {
+    text-align: center;
+    margin-top: 5%;
+    color: red;
+}
+
+.button {
+    color: violet;
+}
+
+.small-font, h2 {
+    font-size: small;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.timer {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
